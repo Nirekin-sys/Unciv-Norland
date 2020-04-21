@@ -18,8 +18,8 @@
 		
 		"tradeRequest": "The ink is still wet, will you be considerate?",
 				
-		"outerColor": [135,58,58],
-		"innerColor": [166,221,221],
+		"outerColor": [166,221,221],
+		"innerColor": [135,58,58],
 		"unique": "SCHOLARS_OF_THE_JADE_HALL",
 		"cities": ["Columbiana","Davenport","Far Waters","Gleafton","Gramsby","Wakefield","Free Wish","Faversham","Newchester","Aroonshire",
 			"Bardford","Azmarin","Llynefeld","Bromwich","Warcester Central","Tregaron","New Gramsby","Hadleigh","Domburton","Aeredale",
